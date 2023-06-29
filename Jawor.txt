@@ -1,0 +1,1 @@
+{"best": 525.5, "best_chess": 30, "best_spanish": 55.5, "best_juggling": 71.5, "FP": 1, "DP": 4, "lvl": 6, "remained_exp": 69.0}
