@@ -1,2 +1,2 @@
 # TheGameOfLife
- program for my friend
+A friend of mine asked me to create an aplication for him acording to the "life gamification" contept. He wanted an app, that will motivate him to do certain actitivities. As a reward, those activicies will give him experience points, fear points(FP) and discipline points(DP). With exp he wanted to reach next levels acording to the system he provided. He aslo wanted some achivements with the best daily results he achived on certain fields. The initial information you can find in folder Other -> Initial_informations
