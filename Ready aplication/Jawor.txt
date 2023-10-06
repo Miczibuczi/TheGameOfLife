@@ -1,0 +1,1 @@
+{"best": 0, "best_chess": 0, "best_spanish": 0, "best_juggling": 0, "FP": 0, "DP": 0, "lvl": 11210, "remained_exp": 0.0}
